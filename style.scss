@@ -34,7 +34,13 @@ table, th, td {
     border: 1px #4dff4d;
 }
 
+table {
+    width: 100%;
+}
 
+th {
+    height: 50px;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
