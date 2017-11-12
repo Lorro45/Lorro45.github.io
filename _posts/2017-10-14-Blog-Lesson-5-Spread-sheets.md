@@ -1,5 +1,4 @@
 Blog Lesson 5 Spread sheets
-published: true
 ---
 Date: 9.10.2017   Task: Payroll
 
