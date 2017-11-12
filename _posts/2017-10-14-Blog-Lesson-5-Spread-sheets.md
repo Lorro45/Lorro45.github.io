@@ -1,4 +1,3 @@
-
 title: Blog Lesson 5 Spread sheets
 layout: post
 author: lawrence.parmenter
