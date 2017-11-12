@@ -1,8 +1,4 @@
-title: Blog Lesson 5 Spread sheets
-layout: post
-author: lawrence.parmenter
-permalink: /blog-lesson-5-spread-sheets/
-source-id: 1gtup3_QGB3CCLxIEolB-SZgGRDHOaLxKoLMyjH5kryM
+Blog Lesson 5 Spread sheets
 published: true
 ---
 Date: 9.10.2017   Task: Payroll
